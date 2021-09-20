@@ -8,4 +8,4 @@
 table,th,tr,td{border: solid 3px purple; color: brown; text-align: center;border-collapse:collapse ; padding: 15px; margin: 15px 0;}
 
 tr:nth-child(even) {background-color:lightgrey}
-
+.name:hover{text-shadow: 2px 3px 13px green; border: dashed 3px navy}
